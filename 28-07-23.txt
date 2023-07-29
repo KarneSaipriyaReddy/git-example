@@ -1,0 +1,27 @@
+touch - it is used to create a file
+rm - used to remove a file
+ctrl + r - recursive search
+ctrl + l - clearing the terminal screen
+ctrl + left arrow - Move one word to the left
+CTRL+RIGHT ARROW -  Move one word to the RIGHT
+CTRL+SHIFT+TAB - Move to the previous tab
+CTRL+SHIFT+left arrow - highlights the first word to the left 
+CTRL+SHIFT+RIGHT ARROW -highlights the first word to the RIGHT
+Ctrl + D - Delete the selected item 
+~ -tilde (users home directory)
+ctrl + ~ - used to move the cursor to terminal
+pwd - present working directory
+/ - route
+ls - used to display a list of files and sub-directories in the current directory
+ls -la -see all of your files listed, including hidden files
+ls -l - we can see the names of file or directories present  
+mkdir - create a directory
+cat - concatenate (used to display the content of a file)
+cp - used for copying files from one location to another
+. - present folder
+.. - one step back folder or previous folder
+absolute path - it will start with root directory & provides full path to the file
+relative path - is a path to a file or directory that is relative to the current directory
+git init- used for initializing
+git status - used to check the status of working directory and the staging area. 
+
